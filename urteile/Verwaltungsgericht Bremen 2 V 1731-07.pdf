@@ -1,0 +1,329 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="de" xml:lang="de" dir="ltr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="de" />
+<meta name="robots" content="index,follow" />    <meta http-equiv="Expires" content="0" />
+    <meta name="title" content="Startseite | LDA" />
+    <meta name="description" content="
+ " />
+    <link rel="image_src" type="image/jpeg" href="/media_fast/4048/LDALogo80.svg" />
+        <title>Startseite | LDA</title>
+<style type="text/css" media="screen">
+        @import "/media_fast/4048/lda_style.css"; 
+        .navleft li, .navleft li a:hover  { background-color: #ffdead; }
+
+    </style>
+    <link rel="alternate stylesheet" type="text/css" media="screen" title="large" href="/media_fast/lbm1.a.3727.de/file/v3_main1000.css" />
+    <link rel="alternate stylesheet" type="text/css" media="screen" title="huge" href="/media_fast/lbm1.a.3727.de/file/v3_main2000.css" />
+    <link rel="alternate stylesheet" type="text/css" media="screen" title="text" href="/media_fast/lbm1.a.3727.de/file/text.css" />
+<!-- für BOSS -->
+<!-- Ende für BOSS -->
+    <link rel="stylesheet" type="text/css" media="print" href="/media_fast/lbm1.a.3727.de/file/bbo_print.css" />
+    <!-- custom css-rules -->
+    <style type="text/css" media="screen">
+        span.eins {
+    padding: 0;
+}
+ul.left {
+    margin-left: 125px;
+}
+div.left {
+    float: left;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 0;
+    width: 148px;
+}
+.navleft ul li a span.extern {
+    background: url("/media_fast/lbm1.a.3727.de/v2_extern.gif") no-repeat scroll right center rgba(0, 0, 0, 0);
+    padding: 0 23px 0 0;
+}    </style>
+                <style type="text/css" media="print">
+            #content .beitrag a:after {
+    content: " ";
+    }        </style>
+            <!--[if gte IE 5]>
+        <style type="text/css" media="screen">
+            #rcont .beitrag h2 {
+                margin: -1px 15px 5px -10px;
+            }
+        </style>
+    <![endif]-->
+    
+<!-- PIWIK -->
+<!-- Ende PIWIK -->
+</head>
+
+<body id="body">
+<div id="wrapper1">
+<div id="wrapper2">
+<div id="header">
+    <div id="logo">
+        <a href="https://www.lda.brandenburg.de" ><img src="/media_fast/4048/LDALogo80.svg" alt="brandenburg.de Logo"  /></a>
+    </div>
+
+    <div id="nav">
+    		<h1 id="mandant"><a href="https://www.lda.brandenburg.de" title="Link zur Homepage">Die Landesbeauftragte für den Datenschutz <br />und für das Recht auf Akteneinsicht Brandenburg<br /></a></h1><!-- Six-Suche --> 
+        <div id="search">
+            <form method="get" action="/cms/detail.php/bb1.c.233960.de/bbo_search">
+                <fieldset>
+                    <legend>Suche</legend>
+                    <a href="/cms/detail.php/bb1.c.233960.de/bbo_search_ext" rel="nofollow">erweiterte Suche</a>
+                    <input type="hidden" name="_where" value="all" />
+                    <input type="text" size="15" name="sv[vt]" maxlength="255" value="Suchbegriff" onfocus="this.value='';" accesskey="s" />
+                    <input class="submit" type="submit" value="suchen" />
+                </fieldset>
+            </form>
+        </div>
+ 
+        <div id="nav1">
+
+            <ul> 
+<li><a class="anone" href="#content" accesskey="N">&nbsp;Navigation &uuml;berspringen&nbsp;</a></li>
+                                <li><a href="http://www.brandenburg.de/alias/bb1.c.474722.de" accesskey="L" tabindex="1" >&nbsp;<u>L</u>andesregierung</a></li>     
+                                                                       </ul>        </div>
+
+        <div id="nav2">
+        	<ul>
+        		<li style="background-image: none;">
+            	<a href="/cms/detail.php/bb1.c.233960.de">Start</a>
+            	</li>
+                             </ul>
+        </div>
+
+
+    </div>
+</div>
+<!--/ header -->
+
+
+<!-- Main -->
+ <div id="main">
+
+    <!-- linkes Men -->
+    <div id="leftcont">
+
+            <h2>Die Landesbeauftragte</h2>
+    <div class="navleft">
+        <ul>
+        
+        
+            
+
+<li><a href="/cms/detail.php/bb1.c.235252.de">Zur Person</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.235246.de">Aufgaben</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.337996.de">Organigramm</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241171.de">Kontakt / Anreise</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.605952.de">Stellenausschreibungen</a></li>           
+           
+        </ul>
+    </div>
+        <h2>Themen</h2>
+    <div class="navleft">
+        <ul>
+        
+        
+            
+
+<li><a href="/cms/detail.php/bb1.c.234502.de">Datenschutz</a><ul id="menu564228">
+
+<li><a href="/cms/detail.php/bb1.c.235227.de">Grundlagen</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241223.de">Zuständigkeiten</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.477272.de">Datenschutz-Grundverordnung</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.523474.de">Auslegung und Umsetzung der Datenschutz-Grundverordnung</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.477293.de">Europäischer Datenschutzausschuss</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.477304.de">Anpassung des Bundes- und Landesrechts</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.508219.de">Richtlinie für Justiz und Inneres</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241224.de">Entschließungen, Beschlüsse, Protokolle</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.528353.de">Internationaler Datenverkehr</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.299088.de">Entscheidungen des Europäischen Gerichtshofs</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.596506.de">Einzelthemen</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.664943.de">Hinweise zum Datenschutz während der Corona-Pandemie</a></li></ul></li>
+
+<li><a href="/cms/detail.php/bb1.c.234828.de">Akteneinsicht</a><ul id="menu564245">
+
+<li><a href="/cms/detail.php/bb1.c.235244.de">Häufig gestellte Fragen (FAQ)</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241228.de">Informationsfreiheit</a></li>
+
+<li><a href="/sixcms/detail.php?template=rechtsprechungsdb_start" title="zu den Gerichtsentscheidungen">Gerichtsentscheidungen</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241230.de">Zuständigkeiten</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241231.de">Entschließungen</a></li></ul></li>
+
+<li><a href="/cms/detail.php/bb1.c.241161.de">Tätigkeitsberichte</a></li>           
+           
+        </ul>
+    </div>
+        <h2>Service</h2>
+    <div class="navleft">
+        <ul>
+        
+        
+            
+
+<li><a href="/cms/detail.php/bb1.c.241176.de">Informationsmaterial</a><ul id="menu564346">
+
+<li><a href="/cms/detail.php/bb1.c.264862.de" title="Faltbl&auml;tter">Faltblätter</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.264864.de" title="Brosch&uuml;ren">Broschüren</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.264871.de" title="Orientierungshilfen">Orientierungshilfen</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.598330.de" title="Hinweise zur Auslegung der DS-GVO">Hinweise zur Auslegung der DS-GVO</a></li></ul></li>
+
+<li><a href="https://www.lda.brandenburg.de/de/beschwerdeformular" target="_blank">Beschwerdeformular</a></li>
+
+<li><a href="https://www.lda.brandenburg.de/cms/detail.php/bb1.c.233960.de/bbo_contact" target="_blank">Meldung des Datenschutzbeauftragten</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.492196.de">Musterschreiben</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241177.de">Presse</a><ul id="menu564774">
+
+<li><a href="/cms/detail.php/bb1.c.233960.de/bbo_press" title="Aktuelle Presseinformationen">Aktuelle Presseinformationen</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.605967.de" title="Pressekontakt">Pressekontakt</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.605973.de" title="Bildmaterial">Bildmaterial</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.605975.de" title="Datenschutzhinweis">Datenschutzhinweis</a></li></ul></li>
+
+<li><a href="/cms/detail.php/bb1.c.265584.de">Gesetze</a><ul id="menu564349">
+
+<li><a href="/cms/detail.php/bb1.c.261290.de" title="Recht der Europ&auml;ischen Union">EU</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.241178.de" title="Bundesrecht">Bund</a></li>
+
+<li><a href="/cms/detail.php/bb1.c.261293.de" title="Brandenburgisches Landesrecht">Brandenburg</a></li></ul></li>
+
+<li><a href="https://www.datenschutz.de/" target="_blank"><span class="extern">Virtuelles Datenschutzbüro</span></a></li>
+
+<li><a href="https://www.youngdata.de/" target="_blank"><span class="extern">Youngdata</span></a></li>
+
+<li><a href="/cms/detail.php/bb1.c.603401.de">Datenschutzkonferenz</a></li>           
+           
+        </ul>
+    </div>
+            <div id="switcher" style="display: none;">
+<div id="sw">
+            <a href="#" title="Standard-Textgr&ouml;&szlig;e" class="default">A</a><span class="no"> | </span>
+            <a href="#" title="Text gr&ouml;&szlig;er" class="large">A</a><span class="no"> | </span>
+            <a href="#" title="Text noch gr&ouml;&szlig;er" class="huge">A</a><span class="no"> | </span>
+            <a href="#" title="Textversion" class="text">Textversion</a>
+            <a href="#" title="zur&uuml;ck zur Standardversion" class="back2default">zur&uuml;ck zur Standardversion</a>
+</div>
+                  </div>
+    </div>
+
+    <!--/ leftcont -->
+
+    <!-- Content (mitte) -->
+    <div id="content">
+
+
+<!-- Boxes -->
+
+    <div class="beitrag textbox">
+        <h2>Die Landesbeauftragte für den Datenschutz <br />und für das Recht auf Akteneinsicht Brandenburg</h2>        <div class="articleimgdiv"> <a title="Neues Fenster: Dagmar Hartge - vergrößern" class="thumb" href="/cms/detail.php?template=bbo_image_zoom&amp;gsid=bb1.c.424214.de"><img  src="/media_fast/4058/thumbnails/IMG_4012_Ha_bearb_03.JPG.16218002.JPG"  alt="Dagmar Hartge" title="Dagmar Hartge"/><img class="zoom" alt="Neues Fenster:  - vergrößern" src="/media_fast/lbm1.a.3727.de/file/zoom.gif" /></a>Dagmar Hartge </div>        <p><strong>&nbsp;</strong></p>
+<p><strong>Datenschutz <br />Ihr Recht auf informationelle Selbstbestimmung</strong><br />Der Schutz personenbezogener Daten stellt ein wesentliches Persönlichkeitsrecht dar. Doch wie ist der Datenschutz im Einzelnen geregelt? Welche technischen Gesichtspunkte spielen dabei eine Rolle? Wer ist wofür zuständig? Wir informieren über die aktuellen Rechtsgrundlagen<br />zum <a href="/cms/detail.php/bb1.c.234502.de">Datenschutz</a> und bieten Hilfestellungen zu ihrer Auslegung.</p>
+<p><strong>&nbsp;</strong></p>
+<p><strong>Akteneinsicht <br />Ihr Recht auf Informationszugang</strong><br />Das Recht, von öffentlichen Stellen Informationen zu erhalten, hat in Brandenburg Verfassungsrang. Wie stellt man einen Antrag? Welche rechtlichen Kriterien muss die Behörde bei dessen Bearbeitung beachten? Können für die Akteneinsicht Kosten erhoben werden? Weitere Informationen erhalten Sie hier zur <a href="/cms/detail.php/bb1.c.234828.de">Akteneinsicht</a>.</p>
+<p>&nbsp;</p>
+<hr style="width: 506px;" width="506" />    </div>
+        <div class="beitrag textbox">
+        <h2>Aktuelles</h2>                <p><a href="/sixcms/detail.php/965501">Entschließung der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 1. September 2020 - Patientendaten-Schutz-Gesetz: Ohne Nachbesserungen beim Datenschutz für die Versicherten europarechtswidrig!</a></p>
+<p></p>
+<p><a href="/sixcms/detail.php/965224">Entschließung der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 26. August 2020 - Registermodernisierung verfassungskonform umsetzen!</a></p>
+<p></p>
+<p><a href="/sixcms/detail.php/962061">Pressemitteilung der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 28.07.2020: &bdquo;Urteil des <abbr title="Europ&auml;ischer Gerichtshof">EuGH</abbr> zur Übermittlung personenbezogener Daten in Drittländer (&bdquo;Schrems II&ldquo;) stärkt den Datenschutz für <abbr title="Europ&auml;ische Union">EU</abbr>-Bürger</a></p>
+<p></p>
+<p><a href="/sixcms/detail.php/957675">Pressemitteilung der Konferenz der unabhängigen Datenschutzaufsichtsbehörden des Bundes und der Länder vom 16.06.2020: Datenschutzfreundliches Grundkonzept der Corona-Warn-<span lang="en" xml:lang="en">App</span> &ndash; Freiwilligkeit darf nicht durch zweckwidrige Nutzung untergraben werden!</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>    </div>
+            
+
+    <div id="nachoben">
+        <a href="#body" title="nach oben">&nbsp;&nbsp;nach oben&nbsp;&nbsp;</a><span class="no"> | </span>
+    </div>
+    <div id="print" style="display: none;">
+        <a href="#" title="Seite drucken"><img src="/media_fast/lbm1.a.1180.de/sixcms_filename/print.gif" alt="Seite drucken" />&nbsp;&nbsp;Seite drucken&nbsp;&nbsp;</a>
+    </div>
+  
+</div>
+<!--/ content -->
+         <div id="rightcont">
+            <!-- Content (rechts) -->
+            <div id="rcont">
+<!--Quicklinks -->
+    <!--Social Bookmarks -->
+    <!-- article links -->
+
+<div class="nav">
+<a href="/sixcms/detail.php?template=rechtsprechungsdb_start">Gerichtsentscheidungen zur Informationsfreiheit</a>
+</div><br /><div class="nav">
+<a href="/sixcms/detail.php/bb1.c.664943.de">Hinweise zum Datenschutz während der Corona-Pandemie</a>
+</div><br /><div class="nav">
+<a href="/sixcms/detail.php/bb1.c.528353.de">Internationaler Datenverkehr</a>
+</div><br />
+<!-- Boxes -->
+ 
+
+
+
+    <div class="beitrag">
+    <h2>Presseticker</h2>
+        <p>19.08.2020<br />        <strong>Elektronische Patientenakte – Datenschutzverstöße sind vorprogrammiert</strong><br />
+		  
+        <a href="/cms/detail.php/bb1.c.675240.de" title="Link ruft vollst&auml;ndigen Text der Pressemitteilung auf" class="mehr">weiter</a>
+    </p>
+    </div><!---  -->
+    <!-- -->
+    
+            </div>
+            <!--/ rcont -->
+        </div>
+        <!--/ rightcont -->   <div id="footer">        <span class="no"> | </span>&copy;&nbsp;2020 Die Landesbeauftragte für den Datenschutz <br />und für das Recht auf Akteneinsicht Brandenburg<br />         | <a href="/cms/detail.php/bb1.c.239570.de">Disclaimer</a> | <a href="/cms/detail.php/bb1.c.241186.de">Datenschutzerklärung</a> | <a href="/cms/detail.php/bb1.c.241189.de">Impressum</a>    </div>
+    <!--
+    <div id="lds_copyright">
+        erstellt mit <a href="/sixcms/detail.php/lbm1.c.344580.de?_site=lbm1.c.292071.de" target="_blank"><abbr title="Die Mandanten-Anwendung im SixCMS des LDS">MAIS</abbr></a> V1.0
+    </div>
+    -->
+
+</div>
+<!-- /main -->
+</div> <!-- /#wrapper2 -->
+</div> <!-- /#wrapper1 -->
+
+<!-- <script type="text/javascript" src="httpss://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.js" </script> 
+<script type="text/javascript" src="/media_fast/lbm1.a.3727.de/jquery-1.4.4.min.js"></script> -->
+<script type="text/javascript" src="/media_fast/lbm1.a.3727.de/jquery-1.11.0.min.js"></script>
+
+<script type="text/javascript" src="/media_fast/lbm1.a.3727.de/file/common.js"></script> 
+<!-- für BOSS -->
+<!-- Ende für BOSS -->
+
+</body>
+</html>
